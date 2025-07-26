@@ -62,5 +62,3 @@ This script will remove duplicates from the collected hosts, scan the file, and 
 The HTTP headers are set to capture any response between 2xx and 5xx status codes, ensuring it logs all responses from the hosts.
 
 **Hope you find something interesting!**
-
-https://github.com/projectdiscovery/subfinder
