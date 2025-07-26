@@ -1,0 +1,2 @@
+# termux
+necessary termux packages
